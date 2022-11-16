@@ -22,7 +22,7 @@
 /*void main(List<String> args) {
   replaceText(args[0] as int);
 }*/
-
+// Logic handling without widgets can be done like this
 String replaceText(int flag){
   if(flag==0){
     return "Successfully completed first assignment";
